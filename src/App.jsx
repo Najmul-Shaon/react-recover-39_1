@@ -12,8 +12,8 @@ function App() {
       <div>
         <h3>Test</h3>
         <Test name="am a redbull" eat="eater"></Test>
-        <Test></Test>
-        <Test></Test>
+        <Test name="itiching"></Test>
+        <Test eat='bitching'></Test>
         <Test></Test>
       </div>
     </>
