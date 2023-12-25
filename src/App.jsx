@@ -11,7 +11,10 @@ function App() {
     <>
       <div>
         <h3>Test</h3>
-        <Test name="ass"></Test>
+        <Test name="am a redbull" eat="eater"></Test>
+        <Test></Test>
+        <Test></Test>
+        <Test></Test>
       </div>
     </>
   );
